@@ -1,0 +1,17 @@
+{
+  "name": "api-routes-rest",
+  "version": "1.0.0",
+  "scripts": {
+    "debug": "NODE_OPTIONS='--inspect' next",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "swr": "^0.1.18"
+  },
+  "license": "ISC"
+}
